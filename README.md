@@ -1,4 +1,4 @@
-![git](https://user-images.githubusercontent.com/69577050/200494864-c780cb66-4305-48d1-8ed7-cfb9f44bd9c4.png)
+![git](https://user-images.githubusercontent.com/69577050/200499638-eac87c81-9225-4ba6-a777-8a7024f4cb22.png)
 <h1 align="center">Hi 👋, I'm Nedim Kaba</h1>
 <h3 align="center">learning how to program</h3>
 
