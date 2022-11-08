@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/NiftyConcreteAustraliansilkyterrier-size_restricted.gif)](https://rishavchanda.io)
+![git](https://user-images.githubusercontent.com/69577050/200494864-c780cb66-4305-48d1-8ed7-cfb9f44bd9c4.png)
 <h1 align="center">Hi 👋, I'm Nedim Kaba</h1>
 <h3 align="center">learning how to program</h3>
 
