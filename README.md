@@ -1,7 +1,6 @@
 [![MasterHead](https://thumbs.gfycat.com/NiftyConcreteAustraliansilkyterrier-size_restricted.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nedim Kaba</h1>
 <h3 align="center">learning how to program</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on **Bootstrap5, jQuery, JSF, and mobile applications**
