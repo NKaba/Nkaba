@@ -1,6 +1,6 @@
 ![git](https://user-images.githubusercontent.com/69577050/200500719-bff463e3-2789-46f9-b62d-66c57618fe22.png)
 <h1 align="center">👋</h1>
-<h3 align="center">learning how to program</h3>
+<h3 align="center">I am learning how to program!</h3>
 
 
 - 🔭 I’m currently working on **Bootstrap5, jQuery, JSF, and mobile applications**
