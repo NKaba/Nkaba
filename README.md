@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Bootstrap5, jQuery, JSF, and mobile applications**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **.NET MAUI**
 
 - 👯 I like to **play soccer and code in my free time.**
 
