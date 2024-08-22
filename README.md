@@ -3,9 +3,6 @@
 <h3 align="center">I am learning how to program!</h3>
 
 
-- 🔭 I’m currently working on **Bootstrap5, jQuery, JSF and C#.**
-
-
 - 👯 I like to **play soccer and code in my free time.**
 
 <h3 align="left">Languages and Tools:</h3>
